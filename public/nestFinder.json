@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "estate_title": "",
+      "segment_name": "",
+      "description": "",
+      "price": "",
+      "status": "",
+      "area": "",
+      "location": "",
+      "facilities": [""],
+      "image": "https://a0.muscache.com/im/pictures/miso/Hosting-30884366/original/162948b4-60df-42d2-b54f-8b543c7ab21f.jpeg"
+    },
+    {
+      "id": 2,
+      "estate_title": "",
+      "segment_name": "",
+      "description": "",
+      "price": "",
+      "status": "",
+      "area": "",
+      "location": "",
+      "facilities": [""],
+      "image": "https://luxury-art-penthouse-apartment.norway-hotel.com/data/Imgs/OriginalPhoto/1691/169177/169177632/img-luxury-art-penthouse-apartment-bergen-8.JPEG"
+    },
+    {
+      "id": 3,
+      "estate_title": "",
+      "segment_name": "",
+      "description": "",
+      "price": "",
+      "status": "",
+      "area": "",
+      "location": "",
+      "facilities": [""],
+      "image": "https://images.trvl-media.com/lodging/76000000/75600000/75599500/75599438/f1de5c4e.jpg"
+    }
+  ]
+  
